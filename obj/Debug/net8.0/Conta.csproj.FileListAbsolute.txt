@@ -1,0 +1,14 @@
+C:\Users\Davi\Documents\Trabalhos Facul\POO\Conta\bin\Debug\net8.0\Conta.exe
+C:\Users\Davi\Documents\Trabalhos Facul\POO\Conta\bin\Debug\net8.0\Conta.deps.json
+C:\Users\Davi\Documents\Trabalhos Facul\POO\Conta\bin\Debug\net8.0\Conta.runtimeconfig.json
+C:\Users\Davi\Documents\Trabalhos Facul\POO\Conta\bin\Debug\net8.0\Conta.dll
+C:\Users\Davi\Documents\Trabalhos Facul\POO\Conta\bin\Debug\net8.0\Conta.pdb
+C:\Users\Davi\Documents\Trabalhos Facul\POO\Conta\obj\Debug\net8.0\Conta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davi\Documents\Trabalhos Facul\POO\Conta\obj\Debug\net8.0\Conta.AssemblyInfoInputs.cache
+C:\Users\Davi\Documents\Trabalhos Facul\POO\Conta\obj\Debug\net8.0\Conta.AssemblyInfo.cs
+C:\Users\Davi\Documents\Trabalhos Facul\POO\Conta\obj\Debug\net8.0\Conta.csproj.CoreCompileInputs.cache
+C:\Users\Davi\Documents\Trabalhos Facul\POO\Conta\obj\Debug\net8.0\Conta.dll
+C:\Users\Davi\Documents\Trabalhos Facul\POO\Conta\obj\Debug\net8.0\refint\Conta.dll
+C:\Users\Davi\Documents\Trabalhos Facul\POO\Conta\obj\Debug\net8.0\Conta.pdb
+C:\Users\Davi\Documents\Trabalhos Facul\POO\Conta\obj\Debug\net8.0\Conta.genruntimeconfig.cache
+C:\Users\Davi\Documents\Trabalhos Facul\POO\Conta\obj\Debug\net8.0\ref\Conta.dll
